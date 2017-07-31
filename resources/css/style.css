@@ -16,9 +16,7 @@
 }
 
 header {
-	position: absolute;
-	top: 0;
-	right: 20%;
+	float: right;
 }
 
 footer {
@@ -31,7 +29,7 @@ footer {
 }
 
 .copy {
-	position: absolute;
-	bottom: 0;
-	right: 0;
+	font-size: 1em;
+	margin-top: 1.9em;
+	float: right;
 }
